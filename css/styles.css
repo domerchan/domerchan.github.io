@@ -1139,7 +1139,7 @@ screen and (-ms-high-contrast: none) {
 .accordion span[aria-expanded="false"] .circle-numbering {
     border: 0.125rem solid #484a46;
     background-color: transparent;
-    color: #484a46;
+    color: #ffffff;
 }
 
 .accordion .item:hover span[aria-expanded="false"] .circle-numbering {
@@ -1152,7 +1152,7 @@ screen and (-ms-high-contrast: none) {
     width: 70%;
     margin-top: 0.125rem;
     margin-bottom: 0.25rem;
-    color: #484a46;
+    color: #ffffff;
     font: 700 1.25rem/1.75rem "Montserrat", sans-serif;
     vertical-align: middle;
     cursor: pointer;
