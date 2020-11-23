@@ -2422,7 +2422,8 @@ a:hover.back-to-top {
     /* Details 1 */
     .accordion .accordion-container {
         max-width: 28rem;
-        margin-left: 5rem;
+        margin-left: 20%;
+        margin-right: 20%;
     }
     /* end of details 1 */
     /* Details 2 */
