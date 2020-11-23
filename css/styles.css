@@ -1128,7 +1128,7 @@ screen and (-ms-high-contrast: none) {
     border: 0.125rem solid #14bf98;
     border-radius: 50%;
     background-color: #14bf98;
-    color: #fff;
+    color: #fff !important;
     font: 700 1rem/2.125rem "Montserrat", sans-serif;
     text-align: center;
     vertical-align: middle;
@@ -1137,9 +1137,9 @@ screen and (-ms-high-contrast: none) {
 }
 
 .accordion span[aria-expanded="false"] .circle-numbering {
-    border: 0.125rem solid #484a46;
+    border: 0.125rem solid #fff;
     background-color: transparent;
-    color: #ffffff;
+    color: #ffffff !important;
 }
 
 .accordion .item:hover span[aria-expanded="false"] .circle-numbering {
@@ -1152,7 +1152,7 @@ screen and (-ms-high-contrast: none) {
     width: 70%;
     margin-top: 0.125rem;
     margin-bottom: 0.25rem;
-    color: #ffffff;
+    color: #fff !important;
     font: 700 1.25rem/1.75rem "Montserrat", sans-serif;
     vertical-align: middle;
     cursor: pointer;
