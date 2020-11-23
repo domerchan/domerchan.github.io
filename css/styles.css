@@ -906,6 +906,10 @@ screen and (-ms-high-contrast: none) {
 
 /*********************/
 
+.col-lg-7 {
+    margin-top: 5%;
+}
+
 .basic-1 {
     padding-top: 6.5rem;
     padding-bottom: 3rem;
