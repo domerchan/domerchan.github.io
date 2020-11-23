@@ -2278,7 +2278,8 @@ a:hover.back-to-top {
     }
     .accordion .accordion-container {
         max-width: 88%;
-        margin-left: 2rem;
+        margin-left: 20%;
+        margin-right: 20%;
         padding-bottom: 0;
     }
     .accordion .accordion-title {
