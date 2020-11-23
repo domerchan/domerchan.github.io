@@ -1288,7 +1288,7 @@ screen and (-ms-high-contrast: none) {
     margin-bottom: 1.75rem;
 }
 
-.tabs .area-2 {
+.area-2 {
     height: 27rem;
     background: url('../images/details-2-background.jpg') center center no-repeat;
     background-size: cover;
